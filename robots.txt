@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeseejohs.ha-jdbc.org/sitemap.xml
